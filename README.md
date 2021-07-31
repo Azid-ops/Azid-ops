@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Azid-ops
-- 👀 I’m interested in Data Science and web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Etherium Programming aka Blockchain Developer
+- 🌱 I’m currently learning Etherium Programming
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me by email
+- 📫 How to reach me by azixace361@gmail.com
 
 <!---
 Azid-ops/Azid-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
