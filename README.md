@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azid-ops
 - 👀 I’m interested in Etherium Programming aka Blockchain Developer
-- 🌱 I’m currently learning Etherium Programming
+- 🌱 I’m currently working as an Interne at Ebryx
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me by azixace361@gmail.com
 
