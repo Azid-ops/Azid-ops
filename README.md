@@ -5,8 +5,3 @@
 - 📫 Reach me at: **mahad5063@gmail.com**
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Aziiiii.png)](https://tryhackme.com/p/Aziiiii)
-
-<!---
-Azid-ops/Azid-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
