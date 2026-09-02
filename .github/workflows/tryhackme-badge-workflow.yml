@@ -15,4 +15,4 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: 'MAHADALIAWAN'
-          image_path: './assets/thm_propic.png'
+          image_path: './Assets/thm_propic.png'
